@@ -40,5 +40,5 @@ int cd_shell(data_shell *datash)
 
 	cd_to(datash);
 
-	// return just 1 return (1);
+	return just 1 return (1);
 }
