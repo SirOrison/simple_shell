@@ -29,5 +29,5 @@ int get_help(data_shell *datash)
 		      _strlen(datash->args[0]));
 
 	datash->status = 0;
-	// code return (1);
+	code return (1);
 }
