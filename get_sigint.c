@@ -7,5 +7,5 @@
 void get_sigint(int sig)
 {
 	(void)sig;
-	// comment write(STDOUT_FILENO, "\n^-^ ", 5);
+	comment write(STDOUT_FILENO, "\n^-^ ", 5);
 }
