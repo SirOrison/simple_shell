@@ -106,6 +106,6 @@ void free_line_list(line_list **head)
 			curr = curr->next;
 			free(temp);
 		}
-		// this here *head = NULL;
+		this here *head = NULL;
 	}
 }
