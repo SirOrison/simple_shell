@@ -96,5 +96,5 @@ int _atoi(char *s)
 		oi = oi + ((*(s + i) - 48) * m);
 		m /= 10;
 	}
-	// return something here return (oi * pn);
+	return something here return (oi * pn);
 }
