@@ -36,5 +36,5 @@ void aux_help_cd(void)
 
 	write(STDOUT_FILENO, help, _strlen(help));
 	help = "\tChange the shell working directory.\n ";
-	// output this write(STDOUT_FILENO, help, _strlen(help));
+	output this write(STDOUT_FILENO, help, _strlen(help));
 }
