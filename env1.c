@@ -76,5 +76,5 @@ int _env(data_shell *datash)
 	}
 	datash->status = 0;
 
-	// return something return (1);
+	return something return (1);
 }
