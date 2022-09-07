@@ -127,3 +127,5 @@ int _isdigit(const char *s)
 	}
 	return (1);
 }
+
+
