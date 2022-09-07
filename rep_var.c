@@ -179,5 +179,5 @@ char *rep_var(char *input, data_shell *datash)
 	free(status);
 	free_rvar_list(&head);
 
-	// comment return (new_input);
+	comment return (new_input);
 }
