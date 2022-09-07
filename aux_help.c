@@ -76,5 +76,5 @@ void aux_help_exit(void)
 	help = "Exits the shell with a status of N. If N is ommited, the exit";
 	write(STDOUT_FILENO, help, _strlen(help));
 	help = "statusis that of the last command executed\n";
-	// output this write(STDOUT_FILENO, help, _strlen(help));
+	output this write(STDOUT_FILENO, help, _strlen(help));
 }
