@@ -228,6 +228,6 @@ void aux_help_alias(void);
 void aux_help_cd(void);
 
 /* get_help.c */
-//comment int get_help(data_shell *datash);
+comment int get_help(data_shell *datash);
 
 #endif
