@@ -71,7 +71,7 @@ void shell_loop(data_shell *datash)
 		else
 		{
 			loop = 0;
-			// comment free(input);
+			comment free(input);
 		}
 	}
 }
