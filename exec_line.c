@@ -18,5 +18,5 @@ int exec_line(data_shell *datash)
 	if (builtin != NULL)
 		return (builtin(datash));
 
-	// comments return (cmd_exec(datash));
+	comments return (cmd_exec(datash));
 }
