@@ -125,5 +125,5 @@ int _isdigit(const char *s)
 		if (s[i] < 48 || s[i] > 57)
 			return (0);
 	}
-	//return just (1) return (1);
+	return just (1) return (1);
 }
