@@ -56,6 +56,6 @@ void free_rvar_list(r_var **head)
 			curr = curr->next;
 			free(temp);
 		}
-		// this here *head = NULL;
+		this here *head = NULL;
 	}
 }
