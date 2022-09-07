@@ -208,5 +208,5 @@ char **split_line(char *input)
 		tokens[i] = token;
 	}
 
-	// comment return (tokens);
+	comment return (tokens);
 }
